@@ -12,7 +12,7 @@ This repository provides **educational information about Torzon Market** for res
 
 <p align="center">
   <a href="https://torzonmarket-link.net">
-    <img src="https://torzonmarket-link.net/img/enter_market" alt="Enter Torzon Market"/>
+    <img src="https://torzonmarket-link.net/img/enter_market.png" alt="Enter Torzon Market"/>
   </a>
 </p>
 
