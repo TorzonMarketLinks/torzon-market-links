@@ -1,4 +1,4 @@
-# Torzon Market Information Resource
+# Torzon Market Links | Official Torzon Market URL, Onions, Mirrors
 
 ![Torzon Market](https://img.shields.io/badge/Torzon%20Market-Information-blue)
 ![Security Research](https://img.shields.io/badge/Security-Research-green)
